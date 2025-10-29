@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/esbuild-plugins-community/esbuild-plugin-perf/compare/v1.1.0...v1.1.1) (2025-10-29)
+
+
+### Bug Fixes
+
+* fix esbuild peer dep ([3902d03](https://github.com/esbuild-plugins-community/esbuild-plugin-perf/commit/3902d030d52b8622d4488692ca165dcfb25b1b9b))
+
 ## [1.1.0](https://github.com/esbuild-plugins-community/esbuild-plugin-perf/compare/v1.0.0...v1.1.0) (2024-09-17)
 
 
